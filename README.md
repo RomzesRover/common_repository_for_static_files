@@ -1,0 +1,2 @@
+# common_repository_for_static_files
+none
